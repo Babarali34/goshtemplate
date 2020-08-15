@@ -1,0 +1,38 @@
+@media  (max-width: 768px) {
+	         h1{font-size: 1.6rem;}
+	         h2{font-size: 1.3rem;}
+	         h6{font-size: 1.3rem;}
+          
+          .header-content
+          {padding: 50px 0;}
+          .landing-btn
+          {margin-top: 10px;}
+          .header-graph
+          {margin-top: 40px;}
+          .gradiant-btn
+          {left: 55%;}
+          .service_icon
+          {text-align: center;}
+          .logo .brand-name
+                     {display: block;margin-left: 50%;
+                      transform: translate(-50%,-50%);}
+                         
+                         .f_logo
+                         {padding: 20px 0;}
+                        .f_logo .brand-name
+                     {display: block;margin-left: 50%;
+                      transform: translate(-50%,-50%);}
+
+                      .p-num 
+                      {margin-right: 0;}
+
+                        .article .carton
+            {position: absolute;
+            top: 80%;left: 70%;
+            height: 200px;margin-left: 14px;}
+	                   
+          
+
+  }
+					
+			 
